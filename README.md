@@ -16,22 +16,22 @@ Libft is a custom C static-linked library developed at 42 School, featuring reim
 <h3>Build</h3>
 Clone the repository
 
-```
+```Bash
 git clone https://github.com/princess-mikus/42-Libft.git libft
 ```
 And then call the Makefile inside it to create the .a file
 
-```
+```Bash
 make -C libft
 ```
 <h3>Usage</h3>
 First include the header
 
-```
+```C
 #include "libft.h"
 
 ```
 and then don't forget to compile against the library
-```
+```Bash
 gcc *your files* libft/libft.a -Ilibft
 ```
