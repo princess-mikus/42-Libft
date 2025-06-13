@@ -1,4 +1,4 @@
-<h1>📚 LibFT 📚</h1>
+<h1>📚 Libft 📚</h1>
 Libft is a custom C static-linked library developed at 42 School, featuring reimplementations of standard functions and additional utilities.
 
 <h2>📒 Function List 📒</h2>
