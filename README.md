@@ -7,7 +7,7 @@ Libft is a custom C static-linked library developed at 42 School, featuring reim
 <h2>✅ Features ✅</h2>
 <ul>
   <li><b>POSIX Compliant</b> - Should run in any Unix like system (originally made for MacOS)</li>
-  <li><b>Feature rich</b> - Not only contains LibC standard function not available in all systems (for example all the functions with n in Linux like strncmp) but also list management functions and additional features (like split)</li>
+  <li><b>Feature rich</b> - Not only contains LibC standard function not available in all systems (for example all the functions with l in Linux like strlcpy) but also list management functions and additional features (like split)</li>
   <li><b>Easy to read</b> - Easily readable, clean code using the internal 42's Norminette code etiquette</li>
   <li><b>Memory safe</b> - Does not contain leaks and does not crash (unless the original LibC function crashes too)</li>
 </ul>
