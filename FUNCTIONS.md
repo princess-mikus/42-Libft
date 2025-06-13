@@ -1,4 +1,4 @@
-<h1>LibFT function list</h1>
+<h1>Libft function list</h1>
 <h2>🔧 Standard C Functions 🔧</h2>
 <h3>🧠 Memory Functions 🧠</h3>
 <table>
