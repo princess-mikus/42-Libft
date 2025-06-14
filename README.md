@@ -1,5 +1,5 @@
 <h1>📚 Libft 📚</h1>
-Libft is a custom C static-linked library developed at  <a href="https://www.42network.org/"></a>42 School, featuring reimplementations of standard functions and additional utilities.
+Libft is a custom C static-linked library developed at  <a href="https://www.42network.org/">42 School</a>, featuring reimplementations of standard functions and additional utilities.
 
 <h2>📒 Function List 📒</h2>
 <a href="/FUNCTIONS.md">Full function list and description</a>
