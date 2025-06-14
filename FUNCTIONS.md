@@ -8,19 +8,19 @@
   </tr>
   <tr>
     <td> ft_memset </td>
-    <td> fill memory with a constant byte </td>
+    <td> Fill memory with a constant byte </td>
   </tr>
   <tr>
     <td> ft_bzero </td>
-    <td> fill memory with zeros </td>
+    <td> Fill memory with zeros </td>
   </tr>
   <tr>
     <td> ft_memcpy </td>
-    <td> copies n bytes from memory area src to memory area dest. The memory areas can't overlap </td>
+    <td> Copies n bytes from memory area src to memory area dest. The memory areas can't overlap </td>
   </tr>
   <tr>
     <td> ft_memmove </td>
-    <td> copies n bytes from memory area src to memory area dest. The memory areas may overlap </td>
+    <td> Copies n bytes from memory area src to memory area dest. The memory areas may overlap </td>
   </tr>
   <tr>
     <td> ft_memchr </td>
